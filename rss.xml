@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+     <title>D0</title>
+    <link>https://daanbrownie.github.io/website</link>
+    <description>Latest posts from My Website</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 12:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://example.com/blog/my-first-post</link>
+      <description>This is a short summary of my first blog post.</description>
+      <pubDate>Sun, 15 Jun 2025 09:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/my-first-post</guid>
+    </item>
+
+    <!-- Add more <item> blocks for more articles -->
+
+  </channel>
+</rss>
